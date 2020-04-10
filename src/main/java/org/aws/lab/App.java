@@ -1,6 +1,6 @@
 package org.aws.lab;
 
-public class Main 
+public class App 
 {
     public static void main( String[] args )
     {
