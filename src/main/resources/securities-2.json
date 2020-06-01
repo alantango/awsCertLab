@@ -1,0 +1,20 @@
+[
+    {
+        "CUSIP": "912810SR0",
+        "SecurityType": "Bond",
+        "SecurityTerm": "20-Year",
+        "AuctionDate": "05/20/2020",
+        "IssueDate": "06/01/2020",
+        "MaturityDate": "05/15/2040",
+        "Price": "98.321703"
+    },
+    {
+        "CUSIP": "9127963X5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "105-Day",
+        "AuctionDate": "05/20/2020",
+        "IssueDate": "05/26/2020",
+        "MaturityDate": "09/08/2020",
+        "Price": "99.959167"
+    }
+]

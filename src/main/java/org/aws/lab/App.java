@@ -8,7 +8,9 @@ public class App
 
         switch(flag){
             case "":
-                System.out.println("no flag, nothing to do");
+                // System.out.println("no flag, nothing to do");
+                new dynamodbLab().run();
+                // new s3Lab().run();
                 break;
             case "s3":
                 new s3Lab().run();

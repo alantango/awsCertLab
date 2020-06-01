@@ -1,0 +1,29 @@
+[
+    {
+        "CUSIP": "912796XF1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "05/18/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "08/20/2020",
+        "Price": "99.967139"
+    },
+    {
+        "CUSIP": "9127963A5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "05/18/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "11/19/2020",
+        "Price": "99.924167"
+    },
+    {
+        "CUSIP": "9127962V0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "05/14/2020",
+        "IssueDate": "05/19/2020",
+        "MaturityDate": "06/16/2020",
+        "Price": "99.993000"
+    }
+]

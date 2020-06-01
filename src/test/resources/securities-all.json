@@ -1,0 +1,902 @@
+[
+    {
+        "CUSIP": "912828ZS2",
+        "SecurityType": "Note",
+        "SecurityTerm": "7-Year",
+        "AuctionDate": "05/28/2020",
+        "IssueDate": "06/01/2020",
+        "MaturityDate": "05/31/2027",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912828ZT0",
+        "SecurityType": "Note",
+        "SecurityTerm": "5-Year",
+        "AuctionDate": "05/27/2020",
+        "IssueDate": "06/01/2020",
+        "MaturityDate": "05/31/2025",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912828ZK9",
+        "SecurityType": "Note",
+        "SecurityTerm": "1-Year 11-Month",
+        "AuctionDate": "05/27/2020",
+        "IssueDate": "05/29/2020",
+        "MaturityDate": "04/30/2022",
+        "Price": ""
+    },
+    {
+        "CUSIP": "9127962H1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "05/27/2020",
+        "IssueDate": "05/28/2020",
+        "MaturityDate": "09/24/2020",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912796XE4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "273-Day",
+        "AuctionDate": "05/27/2020",
+        "IssueDate": "05/28/2020",
+        "MaturityDate": "02/25/2021",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912828ZR4",
+        "SecurityType": "Note",
+        "SecurityTerm": "2-Year",
+        "AuctionDate": "05/26/2020",
+        "IssueDate": "06/01/2020",
+        "MaturityDate": "05/31/2022",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912796WW5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "42-Day",
+        "AuctionDate": "05/26/2020",
+        "IssueDate": "05/28/2020",
+        "MaturityDate": "07/09/2020",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912796XG9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "05/26/2020",
+        "IssueDate": "05/28/2020",
+        "MaturityDate": "08/27/2020",
+        "Price": ""
+    },
+    {
+        "CUSIP": "9127963B3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "05/26/2020",
+        "IssueDate": "05/28/2020",
+        "MaturityDate": "11/27/2020",
+        "Price": ""
+    },
+    {
+        "CUSIP": "912828Z37",
+        "SecurityType": "Note",
+        "SecurityTerm": "9-Year 8-Month",
+        "AuctionDate": "05/21/2020",
+        "IssueDate": "05/29/2020",
+        "MaturityDate": "01/15/2030",
+        "Price": "106.232149"
+    },
+    {
+        "CUSIP": "9127962W8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "05/21/2020",
+        "IssueDate": "05/26/2020",
+        "MaturityDate": "06/23/2020",
+        "Price": "99.993000"
+    },
+    {
+        "CUSIP": "9127963F4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "05/21/2020",
+        "IssueDate": "05/26/2020",
+        "MaturityDate": "07/21/2020",
+        "Price": "99.983667"
+    },
+    {
+        "CUSIP": "912810SR0",
+        "SecurityType": "Bond",
+        "SecurityTerm": "20-Year",
+        "AuctionDate": "05/20/2020",
+        "IssueDate": "06/01/2020",
+        "MaturityDate": "05/15/2040",
+        "Price": "98.321703"
+    },
+    {
+        "CUSIP": "9127963X5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "105-Day",
+        "AuctionDate": "05/20/2020",
+        "IssueDate": "05/26/2020",
+        "MaturityDate": "09/08/2020",
+        "Price": "99.959167"
+    },
+    {
+        "CUSIP": "9127964K2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "05/20/2020",
+        "IssueDate": "05/26/2020",
+        "MaturityDate": "10/27/2020",
+        "Price": "99.935833"
+    },
+    {
+        "CUSIP": "912796UB3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "42-Day",
+        "AuctionDate": "05/19/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "07/02/2020",
+        "Price": "99.987750"
+    },
+    {
+        "CUSIP": "9127962G3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "05/19/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "09/17/2020",
+        "Price": "99.953722"
+    },
+    {
+        "CUSIP": "9127962Y4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "52-Week",
+        "AuctionDate": "05/19/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "05/20/2021",
+        "Price": "99.838222"
+    },
+    {
+        "CUSIP": "912796XF1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "05/18/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "08/20/2020",
+        "Price": "99.967139"
+    },
+    {
+        "CUSIP": "9127963A5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "05/18/2020",
+        "IssueDate": "05/21/2020",
+        "MaturityDate": "11/19/2020",
+        "Price": "99.924167"
+    },
+    {
+        "CUSIP": "9127962V0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "05/14/2020",
+        "IssueDate": "05/19/2020",
+        "MaturityDate": "06/16/2020",
+        "Price": "99.993000"
+    },
+    {
+        "CUSIP": "9127963D9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "05/14/2020",
+        "IssueDate": "05/19/2020",
+        "MaturityDate": "07/14/2020",
+        "Price": "99.982889"
+    },
+    {
+        "CUSIP": "9127963R8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "105-Day",
+        "AuctionDate": "05/13/2020",
+        "IssueDate": "05/19/2020",
+        "MaturityDate": "09/01/2020",
+        "Price": "99.959167"
+    },
+    {
+        "CUSIP": "9127964J5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "05/13/2020",
+        "IssueDate": "05/19/2020",
+        "MaturityDate": "10/20/2020",
+        "Price": "99.933694"
+    },
+    {
+        "CUSIP": "912810SN9",
+        "SecurityType": "Bond",
+        "SecurityTerm": "30-Year",
+        "AuctionDate": "05/13/2020",
+        "IssueDate": "05/15/2020",
+        "MaturityDate": "05/15/2050",
+        "Price": "97.734134"
+    },
+    {
+        "CUSIP": "912828ZQ6",
+        "SecurityType": "Note",
+        "SecurityTerm": "10-Year",
+        "AuctionDate": "05/12/2020",
+        "IssueDate": "05/15/2020",
+        "MaturityDate": "05/15/2030",
+        "Price": "99.276869"
+    },
+    {
+        "CUSIP": "912796UA5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "42-Day",
+        "AuctionDate": "05/12/2020",
+        "IssueDate": "05/14/2020",
+        "MaturityDate": "06/25/2020",
+        "Price": "99.987167"
+    },
+    {
+        "CUSIP": "912796TJ8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "05/12/2020",
+        "IssueDate": "05/14/2020",
+        "MaturityDate": "09/10/2020",
+        "Price": "99.952069"
+    },
+    {
+        "CUSIP": "912828ZP8",
+        "SecurityType": "Note",
+        "SecurityTerm": "3-Year",
+        "AuctionDate": "05/11/2020",
+        "IssueDate": "05/15/2020",
+        "MaturityDate": "05/15/2023",
+        "Price": "99.686264"
+    },
+    {
+        "CUSIP": "912796TD1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "05/11/2020",
+        "IssueDate": "05/14/2020",
+        "MaturityDate": "08/13/2020",
+        "Price": "99.968403"
+    },
+    {
+        "CUSIP": "9127962Z1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "05/11/2020",
+        "IssueDate": "05/14/2020",
+        "MaturityDate": "11/12/2020",
+        "Price": "99.921639"
+    },
+    {
+        "CUSIP": "9127962U2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "05/07/2020",
+        "IssueDate": "05/12/2020",
+        "MaturityDate": "06/09/2020",
+        "Price": "99.992611"
+    },
+    {
+        "CUSIP": "9127963C1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "05/07/2020",
+        "IssueDate": "05/12/2020",
+        "MaturityDate": "07/07/2020",
+        "Price": "99.982889"
+    },
+    {
+        "CUSIP": "9127963Q0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "105-Day",
+        "AuctionDate": "05/07/2020",
+        "IssueDate": "05/12/2020",
+        "MaturityDate": "08/25/2020",
+        "Price": "99.963542"
+    },
+    {
+        "CUSIP": "9127964H9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "05/06/2020",
+        "IssueDate": "05/12/2020",
+        "MaturityDate": "10/13/2020",
+        "Price": "99.935833"
+    },
+    {
+        "CUSIP": "912796SV2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "42-Day",
+        "AuctionDate": "05/05/2020",
+        "IssueDate": "05/07/2020",
+        "MaturityDate": "06/18/2020",
+        "Price": "99.986583"
+    },
+    {
+        "CUSIP": "912796XH7",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "05/05/2020",
+        "IssueDate": "05/07/2020",
+        "MaturityDate": "09/03/2020",
+        "Price": "99.957028"
+    },
+    {
+        "CUSIP": "912796WZ8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "05/04/2020",
+        "IssueDate": "05/07/2020",
+        "MaturityDate": "08/06/2020",
+        "Price": "99.972194"
+    },
+    {
+        "CUSIP": "912796TP4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "05/04/2020",
+        "IssueDate": "05/07/2020",
+        "MaturityDate": "11/05/2020",
+        "Price": "99.934278"
+    },
+    {
+        "CUSIP": "9127963P2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "105-Day",
+        "AuctionDate": "05/04/2020",
+        "IssueDate": "05/05/2020",
+        "MaturityDate": "08/18/2020",
+        "Price": "99.966458"
+    },
+    {
+        "CUSIP": "9127962P3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "04/30/2020",
+        "IssueDate": "05/05/2020",
+        "MaturityDate": "06/02/2020",
+        "Price": "99.992611"
+    },
+    {
+        "CUSIP": "9127962X6",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "04/30/2020",
+        "IssueDate": "05/05/2020",
+        "MaturityDate": "06/30/2020",
+        "Price": "99.985222"
+    },
+    {
+        "CUSIP": "9127964G1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "04/30/2020",
+        "IssueDate": "05/05/2020",
+        "MaturityDate": "10/06/2020",
+        "Price": "99.940111"
+    },
+    {
+        "CUSIP": "9127963N7",
+        "SecurityType": "Bill",
+        "SecurityTerm": "103-Day",
+        "AuctionDate": "04/29/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "08/11/2020",
+        "Price": "99.967097"
+    },
+    {
+        "CUSIP": "912796XG9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "04/29/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "08/27/2020",
+        "Price": "99.963639"
+    },
+    {
+        "CUSIP": "912796UC1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "273-Day",
+        "AuctionDate": "04/29/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "01/28/2021",
+        "Price": "99.874875"
+    },
+    {
+        "CUSIP": "912828ZK9",
+        "SecurityType": "Note",
+        "SecurityTerm": "2-Year",
+        "AuctionDate": "04/28/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "04/30/2022",
+        "Price": "100.000000"
+    },
+    {
+        "CUSIP": "912828ZN3",
+        "SecurityType": "Note",
+        "SecurityTerm": "7-Year",
+        "AuctionDate": "04/28/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "04/30/2027",
+        "Price": "99.828398"
+    },
+    {
+        "CUSIP": "912796TZ2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "43-Day",
+        "AuctionDate": "04/28/2020",
+        "IssueDate": "04/29/2020",
+        "MaturityDate": "06/11/2020",
+        "Price": "99.989847"
+    },
+    {
+        "CUSIP": "912796WY1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "04/27/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "07/30/2020",
+        "Price": "99.969667"
+    },
+    {
+        "CUSIP": "9127962T5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "04/27/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "10/29/2020",
+        "Price": "99.924167"
+    },
+    {
+        "CUSIP": "912828ZM5",
+        "SecurityType": "Note",
+        "SecurityTerm": "2-Year",
+        "AuctionDate": "04/27/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "04/30/2022",
+        "Price": "99.792594"
+    },
+    {
+        "CUSIP": "912828ZL7",
+        "SecurityType": "Note",
+        "SecurityTerm": "5-Year",
+        "AuctionDate": "04/27/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "04/30/2025",
+        "Price": "99.906021"
+    },
+    {
+        "CUSIP": "912828ZJ2",
+        "SecurityType": "Note",
+        "SecurityTerm": "5-Year",
+        "AuctionDate": "04/23/2020",
+        "IssueDate": "04/30/2020",
+        "MaturityDate": "04/15/2025",
+        "Price": "102.366204"
+    },
+    {
+        "CUSIP": "9127962N8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "04/23/2020",
+        "IssueDate": "04/28/2020",
+        "MaturityDate": "05/26/2020",
+        "Price": "99.993000"
+    },
+    {
+        "CUSIP": "9127962W8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "04/23/2020",
+        "IssueDate": "04/28/2020",
+        "MaturityDate": "06/23/2020",
+        "Price": "99.981333"
+    },
+    {
+        "CUSIP": "9127964A4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "04/22/2020",
+        "IssueDate": "04/28/2020",
+        "MaturityDate": "09/29/2020",
+        "Price": "99.942250"
+    },
+    {
+        "CUSIP": "9127963M9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "103-Day",
+        "AuctionDate": "04/22/2020",
+        "IssueDate": "04/23/2020",
+        "MaturityDate": "08/04/2020",
+        "Price": "99.969958"
+    },
+    {
+        "CUSIP": "912796XF1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "04/21/2020",
+        "IssueDate": "04/23/2020",
+        "MaturityDate": "08/20/2020",
+        "Price": "99.963639"
+    },
+    {
+        "CUSIP": "9127962Q1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "52-Week",
+        "AuctionDate": "04/21/2020",
+        "IssueDate": "04/23/2020",
+        "MaturityDate": "04/22/2021",
+        "Price": "99.833167"
+    },
+    {
+        "CUSIP": "912796WX3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "04/20/2020",
+        "IssueDate": "04/23/2020",
+        "MaturityDate": "07/23/2020",
+        "Price": "99.968403"
+    },
+    {
+        "CUSIP": "9127962S7",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "04/20/2020",
+        "IssueDate": "04/23/2020",
+        "MaturityDate": "10/22/2020",
+        "Price": "99.926694"
+    },
+    {
+        "CUSIP": "912796TX7",
+        "SecurityType": "Bill",
+        "SecurityTerm": "43-Day",
+        "AuctionDate": "04/20/2020",
+        "IssueDate": "04/22/2020",
+        "MaturityDate": "06/04/2020",
+        "Price": "99.985667"
+    },
+    {
+        "CUSIP": "9127962M0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "04/16/2020",
+        "IssueDate": "04/21/2020",
+        "MaturityDate": "05/19/2020",
+        "Price": "99.988333"
+    },
+    {
+        "CUSIP": "9127962V0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "04/16/2020",
+        "IssueDate": "04/21/2020",
+        "MaturityDate": "06/16/2020",
+        "Price": "99.976667"
+    },
+    {
+        "CUSIP": "9127963Z0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "04/15/2020",
+        "IssueDate": "04/21/2020",
+        "MaturityDate": "09/22/2020",
+        "Price": "99.918722"
+    },
+    {
+        "CUSIP": "9127963G2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "103-Day",
+        "AuctionDate": "04/15/2020",
+        "IssueDate": "04/16/2020",
+        "MaturityDate": "07/28/2020",
+        "Price": "99.952792"
+    },
+    {
+        "CUSIP": "912796TD1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "04/14/2020",
+        "IssueDate": "04/16/2020",
+        "MaturityDate": "08/13/2020",
+        "Price": "99.927278"
+    },
+    {
+        "CUSIP": "912796TW9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "43-Day",
+        "AuctionDate": "04/14/2020",
+        "IssueDate": "04/15/2020",
+        "MaturityDate": "05/28/2020",
+        "Price": "99.977306"
+    },
+    {
+        "CUSIP": "912796SZ3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "04/13/2020",
+        "IssueDate": "04/16/2020",
+        "MaturityDate": "07/16/2020",
+        "Price": "99.929222"
+    },
+    {
+        "CUSIP": "9127962R9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "04/13/2020",
+        "IssueDate": "04/16/2020",
+        "MaturityDate": "10/15/2020",
+        "Price": "99.853389"
+    },
+    {
+        "CUSIP": "9127962W8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "69-Day",
+        "AuctionDate": "04/13/2020",
+        "IssueDate": "04/15/2020",
+        "MaturityDate": "06/23/2020",
+        "Price": "99.948250"
+    },
+    {
+        "CUSIP": "9127962L2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "04/09/2020",
+        "IssueDate": "04/14/2020",
+        "MaturityDate": "05/12/2020",
+        "Price": "99.985222"
+    },
+    {
+        "CUSIP": "9127962U2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "04/09/2020",
+        "IssueDate": "04/14/2020",
+        "MaturityDate": "06/09/2020",
+        "Price": "99.954889"
+    },
+    {
+        "CUSIP": "912810SL3",
+        "SecurityType": "Bond",
+        "SecurityTerm": "29-Year 10-Month",
+        "AuctionDate": "04/08/2020",
+        "IssueDate": "04/15/2020",
+        "MaturityDate": "02/15/2050",
+        "Price": "116.588638"
+    },
+    {
+        "CUSIP": "9127963Y3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "04/08/2020",
+        "IssueDate": "04/14/2020",
+        "MaturityDate": "09/15/2020",
+        "Price": "99.893056"
+    },
+    {
+        "CUSIP": "9127962M0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "40-Day",
+        "AuctionDate": "04/08/2020",
+        "IssueDate": "04/09/2020",
+        "MaturityDate": "05/19/2020",
+        "Price": "99.982222"
+    },
+    {
+        "CUSIP": "9127963F4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "103-Day",
+        "AuctionDate": "04/08/2020",
+        "IssueDate": "04/09/2020",
+        "MaturityDate": "07/21/2020",
+        "Price": "99.942778"
+    },
+    {
+        "CUSIP": "912828Z94",
+        "SecurityType": "Note",
+        "SecurityTerm": "9-Year 10-Month",
+        "AuctionDate": "04/07/2020",
+        "IssueDate": "04/15/2020",
+        "MaturityDate": "02/15/2030",
+        "Price": "106.783664"
+    },
+    {
+        "CUSIP": "912796WZ8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "04/07/2020",
+        "IssueDate": "04/09/2020",
+        "MaturityDate": "08/06/2020",
+        "Price": "99.940500"
+    },
+    {
+        "CUSIP": "9127962V0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "69-Day",
+        "AuctionDate": "04/07/2020",
+        "IssueDate": "04/08/2020",
+        "MaturityDate": "06/16/2020",
+        "Price": "99.974125"
+    },
+    {
+        "CUSIP": "912828ZH6",
+        "SecurityType": "Note",
+        "SecurityTerm": "3-Year",
+        "AuctionDate": "04/06/2020",
+        "IssueDate": "04/15/2020",
+        "MaturityDate": "04/15/2023",
+        "Price": "99.707782"
+    },
+    {
+        "CUSIP": "912796WW5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "04/06/2020",
+        "IssueDate": "04/09/2020",
+        "MaturityDate": "07/09/2020",
+        "Price": "99.968403"
+    },
+    {
+        "CUSIP": "912796TN9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "04/06/2020",
+        "IssueDate": "04/09/2020",
+        "MaturityDate": "10/08/2020",
+        "Price": "99.919111"
+    },
+    {
+        "CUSIP": "912796SR1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "43-Day",
+        "AuctionDate": "04/06/2020",
+        "IssueDate": "04/08/2020",
+        "MaturityDate": "05/21/2020",
+        "Price": "99.988653"
+    },
+    {
+        "CUSIP": "9127962K4",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "04/02/2020",
+        "IssueDate": "04/07/2020",
+        "MaturityDate": "05/05/2020",
+        "Price": "99.993000"
+    },
+    {
+        "CUSIP": "9127962P3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "04/02/2020",
+        "IssueDate": "04/07/2020",
+        "MaturityDate": "06/02/2020",
+        "Price": "99.985222"
+    },
+    {
+        "CUSIP": "9127963X5",
+        "SecurityType": "Bill",
+        "SecurityTerm": "154-Day",
+        "AuctionDate": "04/02/2020",
+        "IssueDate": "04/07/2020",
+        "MaturityDate": "09/08/2020",
+        "Price": "99.935833"
+    },
+    {
+        "CUSIP": "9127963D9",
+        "SecurityType": "Bill",
+        "SecurityTerm": "102-Day",
+        "AuctionDate": "04/02/2020",
+        "IssueDate": "04/03/2020",
+        "MaturityDate": "07/14/2020",
+        "Price": "99.964583"
+    },
+    {
+        "CUSIP": "9127962L2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "39-Day",
+        "AuctionDate": "04/01/2020",
+        "IssueDate": "04/03/2020",
+        "MaturityDate": "05/12/2020",
+        "Price": "99.991333"
+    },
+    {
+        "CUSIP": "912796WY1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "119-Day",
+        "AuctionDate": "04/01/2020",
+        "IssueDate": "04/02/2020",
+        "MaturityDate": "07/30/2020",
+        "Price": "99.957028"
+    },
+    {
+        "CUSIP": "912796TV1",
+        "SecurityType": "Bill",
+        "SecurityTerm": "42-Day",
+        "AuctionDate": "03/31/2020",
+        "IssueDate": "04/02/2020",
+        "MaturityDate": "05/14/2020",
+        "Price": "99.990667"
+    },
+    {
+        "CUSIP": "9127962U2",
+        "SecurityType": "Bill",
+        "SecurityTerm": "69-Day",
+        "AuctionDate": "03/31/2020",
+        "IssueDate": "04/01/2020",
+        "MaturityDate": "06/09/2020",
+        "Price": "99.986583"
+    },
+    {
+        "CUSIP": "912796UB3",
+        "SecurityType": "Bill",
+        "SecurityTerm": "13-Week",
+        "AuctionDate": "03/30/2020",
+        "IssueDate": "04/02/2020",
+        "MaturityDate": "07/02/2020",
+        "Price": "99.978514"
+    },
+    {
+        "CUSIP": "9127962J7",
+        "SecurityType": "Bill",
+        "SecurityTerm": "26-Week",
+        "AuctionDate": "03/30/2020",
+        "IssueDate": "04/02/2020",
+        "MaturityDate": "10/01/2020",
+        "Price": "99.949444"
+    },
+    {
+        "CUSIP": "912796TT6",
+        "SecurityType": "Bill",
+        "SecurityTerm": "37-Day",
+        "AuctionDate": "03/30/2020",
+        "IssueDate": "03/31/2020",
+        "MaturityDate": "05/07/2020",
+        "Price": "99.997431"
+    },
+    {
+        "CUSIP": "9127962D0",
+        "SecurityType": "Bill",
+        "SecurityTerm": "4-Week",
+        "AuctionDate": "03/26/2020",
+        "IssueDate": "03/31/2020",
+        "MaturityDate": "04/28/2020",
+        "Price": "100.000000"
+    },
+    {
+        "CUSIP": "9127962N8",
+        "SecurityType": "Bill",
+        "SecurityTerm": "8-Week",
+        "AuctionDate": "03/26/2020",
+        "IssueDate": "03/31/2020",
+        "MaturityDate": "05/26/2020",
+        "Price": "100.000000"
+    },
+    {
+        "CUSIP": "912828ZE3",
+        "SecurityType": "Note",
+        "SecurityTerm": "7-Year",
+        "AuctionDate": "03/26/2020",
+        "IssueDate": "03/31/2020",
+        "MaturityDate": "03/31/2027",
+        "Price": "99.624642"
+    },
+    {
+        "CUSIP": "912828ZF0",
+        "SecurityType": "Note",
+        "SecurityTerm": "5-Year",
+        "AuctionDate": "03/25/2020",
+        "IssueDate": "03/31/2020",
+        "MaturityDate": "03/31/2025",
+        "Price": "99.827547"
+    }
+]
